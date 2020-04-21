@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee31abb3-b8d7-47e8-9d22-9616a4b51aaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKdCleAuuaoygSbmIHs7cGGUC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\templates\home" />
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\templates\ui" />
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\templates\admin" />
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\static" />
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\static\anim" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app\static\DPlayer" />
+      <recent name="C:\Users\LGH\PycharmProjects\movie_project\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/admin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/admin/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/home/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee31abb3-b8d7-47e8-9d22-9616a4b51aaf" name="Default Changelist" comment="" />
+      <created>1586488093244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586488093244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586528723004">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1586528723004" />
+    <state x="494" y="125" key="FileChooserDialogImpl" timestamp="1587180924656">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="125" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1587180924656" />
+    <state width="1283" height="186" key="GridCell.Tab.0.bottom" timestamp="1587214564863">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="186" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1587214564863" />
+    <state width="1283" height="186" key="GridCell.Tab.0.center" timestamp="1587214564862">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="186" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1587214564862" />
+    <state width="1283" height="186" key="GridCell.Tab.0.left" timestamp="1587214564862">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="186" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1587214564862" />
+    <state width="1283" height="186" key="GridCell.Tab.0.right" timestamp="1587214564863">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="186" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1587214564863" />
+    <state width="1283" height="239" key="GridCell.Tab.1.bottom" timestamp="1587129756511">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1587129756511" />
+    <state width="1283" height="239" key="GridCell.Tab.1.center" timestamp="1587129756510">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1587129756510" />
+    <state width="1283" height="239" key="GridCell.Tab.1.left" timestamp="1587129756509">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1587129756509" />
+    <state width="1283" height="239" key="GridCell.Tab.1.right" timestamp="1587129756510">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1587129756510" />
+    <state x="212" y="11" width="998" height="708" key="SettingsEditor" timestamp="1587181743518">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="212" y="11" width="998" height="708" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1587181743518" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587183178267">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1587183178267" />
+  </component>
+</project>
