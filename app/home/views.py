@@ -7,7 +7,7 @@ from werkzeug.security import generate_password_hash
 from werkzeug.utils import secure_filename
 from app import db, app, rd
 from functools import wraps
-import os, time, json, uuid
+import os, json, uuid
 from datetime import datetime
 
 
