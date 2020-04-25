@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ee31abb3-b8d7-47e8-9d22-9616a4b51aaf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/admin/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/admin/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/home/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/home/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/home/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home/play.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <recent name="C:\Users\LGH\PycharmProjects\movie_project\app" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__ (1)">
+  <component name="RunManager" selected="Python.manage">
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="movie_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,23 +186,31 @@
       <option name="project" value="LOCAL" />
       <updated>1587546469711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新readme.md 添加项目说明">
+      <created>1587796739521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587796739522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pip3 freeze 导出txt文件上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="pip3 freeze 导出txt文件上传" />
+    <MESSAGE value="更新readme.md 添加项目说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新readme.md 添加项目说明" />
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586528723004">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1586528723004" />
-    <state x="184" y="0" width="1122" height="768" key="CommitChangelistDialog2" timestamp="1587546467806">
+    <state x="184" y="0" width="1122" height="768" key="CommitChangelistDialog2" timestamp="1587796736638">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="184" y="0" width="1122" height="768" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1587546467806" />
+    <state x="184" y="0" width="1122" height="768" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1587796736638" />
     <state x="494" y="125" key="FileChooserDialogImpl" timestamp="1587545447314">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -246,10 +251,10 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="282" y="14" width="998" height="708" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1587546812020" />
-    <state x="506" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587546327979">
+    <state x="506" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587810476991">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="506" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1587546327979" />
+    <state x="506" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1587810476991" />
     <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587183178267">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
