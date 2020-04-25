@@ -12,7 +12,7 @@ app.config['SECRET_KEY'] = "6e24e3c19b4d407d9ce668009066df1c"
 app.config['REDIS_URL'] = "redis://:123456@192.168.0.5:6379/0"
 app.config['UP_DIR'] = os.path.join(os.path.abspath(os.path.dirname(__file__)), "static/uploads/")
 app.config['USER_DIR'] = os.path.join(os.path.abspath(os.path.dirname(__file__)), "static/user/")
-app.debug = True
+app.debug = False
 db = SQLAlchemy(app)
 rd = FlaskRedis(app)
 

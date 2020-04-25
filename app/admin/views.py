@@ -19,6 +19,7 @@ def tpl_extra():
     return data
 
 
+# 会员未登录跳转控制
 def admin_login_req(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
@@ -29,6 +30,7 @@ def admin_login_req(f):
     return decorated_function
 
 
+# 管理员权限控制
 def admin_auth(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
@@ -71,7 +73,7 @@ def index():
 def login():
     form = LoginForm()
     if form.validate_on_submit():
-        data = form.data
+        data = form.data0
         admin = Admin.query.filter_by(name=data["account"]).first()
         if not admin.check_pwd(data["pwd"]):
             flash("密码错误", 'err')
